@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build your first Chrome Extension (Tutorial starter files)
 
 Freshtab displays a beautiful image from Unsplash every time you open a new tab.
@@ -14,3 +15,7 @@ git clone https://github.com/Freshman-tech/freshtab-starter-files
 ```
 - `cd` into the project folder and open it in your text editor.
 - Follow along with [the tutorial](https://freshman.tech/first-chrome-extension).
+=======
+# myFirstChromeExtension
+A chrome extension that displays random photos from Unsplash in new tabs
+>>>>>>> 03ee630 (Initial commit)
